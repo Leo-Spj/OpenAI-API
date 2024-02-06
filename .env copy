@@ -1,0 +1,2 @@
+# Una vez que agregues tu clave de API a continuación, asegúrate de no compartirla con nadie. La clave de API debe mantenerse privada.
+OPENAI_API_KEY=abc123
